@@ -61,7 +61,7 @@ public abstract class BaseActivity extends AppCompatActivity {
                 break;
 
             case R.id.action_github:
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ChEmO1990/AMiiBos"));
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ChEmO1990/ChemoParse"));
                 startActivity(browserIntent);
                 break;
 
