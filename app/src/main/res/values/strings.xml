@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ChemoParse</string>
+    <string name="lbl_register_user">Registrar Usuario</string>
+    <string name="lbl_login">Iniciar sesión</string>
+    <string name="lbl_add_comment">Agregar Comentario</string>
+    <string name="lbl_add">Agregar</string>
+    <string name="lbl_register">Registro</string>
+    <string name="lbl_activity_agregar">Agregar</string>
+
+    <string name="lbl_create_user">Crear usuario</string>
+    <string name="lbl_cancel">Cancelar</string>
+    <string name="lbl_age">Edad</string>
+    <string name="msj_error_add_comment">Ocurrio un error al guardar los datos del comentario.</string>
+
+    <string name="lbl_username">Nombre de usuario</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="lbl_email">Email</string>
+    <string name="title_login">Entrar</string>
+    <string name="lbl_link_createuser">Crear una cuenta nueva</string>
+    <string name="msj_login_error">Los datos proporcionados son inválidos.</string>
+
+    <string name="item_title_name">Nombre:</string>
+    <string name="item_title_sex">Genero:</string>
+    <string name="item_title_maritalstatus">Estado Civil:</string>
+    <string name="item_title_age">Edad:</string>
+
+    <string name="action_github">Github</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="action_add">Agregar</string>
+
+    <string name="msj_close_session">La sesión ha sido cerrada exitosamente.</string>
+    <string name="message_no_connection">No hay conexión a internet disponible. Inténtelo de nuevo, por favor.</string>
+    <string name="try_again">Reintentar</string>
+    <string name="no_connection">Conexión no disponible</string>
+
+    <array name="array_marital_status">
+        <item>Soltero(a)</item>
+        <item>Casado(a)</item>
+        <item>Divorciado(a)</item>
+        <item>Viudo(a)</item>
+    </array>
+
+    <array name="array_sex">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </array>
+</resources>
